@@ -1,32 +1,32 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Changed network card in server 007",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Kevin Malone"
+      "tech": "Dwight Schrute",
+      "date": "2020-03-19T19:54:57.907Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Hard drive failed in workstation 002",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "Jim Halpert"
+      "tech": "Pam Beesly",
+      "date": "2020-03-19T19:55:28.970Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Workstation 205 server up and running",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Pam Beesly"
+      "tech": "Jim Halpert",
+      "date": "2020-03-19T19:57:54.201Z",
+      "id": 3
     }
   ],
   "techs": [
     {
       "id": 1,
-      "firstName": "Kevin",
-      "lastName": "Malone"
+      "firstName": "Dwight",
+      "lastName": "Schrute"
     },
     {
       "id": 2,
@@ -37,11 +37,6 @@
       "id": 3,
       "firstName": "Jim",
       "lastName": "Halpert"
-    },
-    {
-      "firstName": "Dwight",
-      "lastName": "Shcrute",
-      "id": 5
     }
   ]
 }
