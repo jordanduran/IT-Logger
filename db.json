@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "Hard drive failed in workstation 002",
+      "id": 2,
+      "message": "Workstation 002 hard-drive down",
       "attention": true,
       "tech": "Pam Beesly",
-      "date": "2020-03-19T19:55:28.970Z",
-      "id": 2
+      "date": "2020-03-19T20:52:47.428Z"
     },
     {
       "message": "Workstation 205 server up and running",
